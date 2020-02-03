@@ -1,0 +1,11 @@
+# Unix
+*.swp
+
+# OS X
+.DS_Store
+
+# Node.js
+node_modules
+
+# Next.js
+.next
